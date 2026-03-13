@@ -1,4 +1,4 @@
-![Alt text](/README%20cover.png)
+![Alt text](/README%20photo.jpg)
 
 # 👋 Meet Razvan
 
