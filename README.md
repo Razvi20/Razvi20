@@ -2,23 +2,31 @@
 
 # 👋 Meet Razvan
 
-Welcome! I'm Razvan, a passionate frontend developer with a deep-seated love for coding and a relentless drive to deliver exceptional user experiences. As a tech enthusiast, I am always on the lookout for new opportunities to enhance my skills in the ever-evolving world of web development.
+Welcome! I'm Razvan, a **Full Stack Developer** with a specialized focus on integrating **Artificial Intelligence** into modern web architectures. I bridge the gap between sophisticated backend logic and intuitive frontend design to deliver intelligent, scalable, and user-centric digital solutions.
+
+---
 
 ## 👨‍💻 About Me
 
-Dedicated to mastering the latest technologies and advanced frontend development methodologies, I continue to enrich my education. My journey through academia and the professional world has enabled me to blend theoretical insights with hands-on experience, fostering a pragmatic approach to tackling complex projects.
+My evolution from frontend specialist to Full Stack developer is driven by a passion for building end-to-end systems. I am dedicated to mastering the full development lifecycle—from architecting robust server-side logic to deploying AI-driven features that enhance user autonomy and experience. I blend technical pragmatism with a forward-thinking approach to solve complex problems through clean, efficient code.
 
 ## 💼 Professional Journey
 
-I am fortunate to collaborate with a vibrant team at the professional level, where I contribute to the development of innovative and user-centric web applications. My focus lies in turning imaginative concepts into responsive and operational web interfaces. I thrive in environments that value open communication and precision, where team efforts lead to outstanding results.
+I collaborate with high-performing teams to transform imaginative concepts into fully operational, production-ready applications. My recent work focuses on **AI implementation**, where I integrate Large Language Models (LLMs) and automated workflows into existing ecosystems. I thrive in environments that prioritize technical precision, open communication, and the pursuit of cutting-edge innovation.
 
 ## 🌐 Technical Expertise
 
-I specialize in several frontend technologies, including Angular and React, and possess a solid foundation in HTML, CSS, and JavaScript. My proficiency with version control systems, particularly Git, complements my commitment to writing clean and efficient code. Keen to stay ahead, I continuously monitor emerging trends and technologies in the tech landscape.
+My stack covers the entire development spectrum, ensuring high performance from the database to the browser:
+
+* **Frontend:** Expert-level proficiency in **Angular** and **React**, with a focus on state management and responsive UX.
+* **Backend:** Building scalable APIs and microservices using **Node.js** and **Python**.
+* **AI & Data:** Integrating **LLMs (OpenAI, Anthropic)**, prompt engineering, and utilizing vector databases for RAG-based applications.
+* **Core Skills:** Advanced JavaScript/TypeScript, CSS/SASS, and robust version control using **Git**.
+* **Infrastructure:** Committed to writing clean, maintainable code and staying ahead of emerging trends in the AI landscape.
 
 ## 🤝 Connect With Me
 
-I am a firm believer in the power of professional networking and collaboration. If you're interested in discussing the latest tech innovations, exploring potential collaborations, or simply connecting with fellow developers, I'm all ears. Let's join forces to create something amazing!
+I am a firm believer in the power of professional networking and the synergy of collaborative development. If you're interested in discussing AI-driven tech, exploring full-stack architectures, or simply connecting with a fellow developer, let’s join forces to create something amazing!
 
 ## 💅🏻 Languages & Tools
 
